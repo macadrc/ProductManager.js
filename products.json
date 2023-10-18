@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Manzana",
+      "description": "Manzanas rojas frescas",
+      "price": 10.99,
+      "thumbnail": "manzanasrojas.jpg",
+      "code": "P001",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "Banana Brasileña",
+      "description": "Bananas brasileñas frescas",
+      "price": 29.99,
+      "thumbnail": "bananas.jpg",
+      "code": "P002",
+      "stock": 5
+    },
+    {
+        "id": 3,
+        "title": "Mandarinas",
+        "description": "Mandarinas frescas",
+        "price": 19.99,
+        "thumbnail": "Mandarinas.jpg",
+        "code": "P003",
+        "stock": 23
+      }
+  ]
+  
